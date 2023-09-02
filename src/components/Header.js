@@ -7,12 +7,12 @@ const Header = () => {
       <div className="container">
         <div className="inner-content">
           <div className="brand">
-            <Link to={"/"}>İzlenecekler</Link>
+            <Link to={"/"}>Watch List</Link>
           </div>
 
           <ul className="nav-links">
             <li>
-              <Link to={"/watched"}>İzlenenler</Link>
+              <Link to={"/watched"}>Watched</Link>
             </li>
             <li>
               <Link to={"/add"} className="btn">
