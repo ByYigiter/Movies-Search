@@ -13,9 +13,7 @@ This project is about a watchlist. In this project, I used React with Context AP
 ![giphy (1)](https://user-images.githubusercontent.com/48470345/164116947-2207c3c1-3cc1-4e65-9988-bf5997936488.gif)
 
 
-Demo Link : https://emin-movie-watchlist.netlify.app/
 
-YouTube Tutorial Link: https://www.youtube.com/watch?v=-sGRPJmrhWA
 
 ## Available Scripts
 
